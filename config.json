@@ -1,0 +1,22 @@
+{
+    "input": {
+        "testSuites": ["testSuite2.json"]
+    },
+
+    "webdriver": {
+        "configs": [
+            {
+                "serverUrl": "http://http://180.214.179.109:4444",
+                "type": "selenium",
+                "browsers":[
+                    {
+                        "active": true,
+                        "capability": {
+                            "browserName": "chrome"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}
