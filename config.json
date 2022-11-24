@@ -6,7 +6,7 @@
     "webdriver": {
         "configs": [
             {
-                "serverUrl": "http://180.214.179.109:4444",
+                "serverUrl": "http://selenium:4444",
                 "type": "selenium",
                 "browsers":[
                     {
